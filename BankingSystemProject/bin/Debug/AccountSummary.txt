@@ -1,0 +1,11 @@
+*******************
+Poonam Bank System
+*******************
+Name of client: Rachel
+Mobile Number  :7876927843
+Account number: 848173456
+Account Type :saving
+
+
+Date: 4/16/2016 12:35:38 PM  Transaction Amount:  +52222  Current Balance : 152222
+Date: 4/16/2016 12:36:21 PM  Transaction Amount:  -52222  Current Balance : 100000
